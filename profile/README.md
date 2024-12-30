@@ -1,6 +1,8 @@
 # 🐺 RoxyMC
-We're working on amazing custom games in Minecraft!
-<br>Join and see it yourself!
+
+We're working on some amazing Minecraft games and other projects!
+
+Check out our website, repositories and join us in Minecraft or on Discord:
 - Server Address: `roxymc.net`
-- Website: [`roxymc.net`](https://roxymc.net/)
-- Discord: [`dc.roxymc.net`](https://dc.roxymc.net/)
+- Webstie: [`roxymc.net`](https://roxymc.net)
+- Discord Invite: [`dc.roxymc.net`](https://dc.roxymc.net/)
